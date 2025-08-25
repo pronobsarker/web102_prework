@@ -26,7 +26,7 @@ I changed some of the functionality, for example, the mouse cursor to change onl
 Here's a walkthrough of implemented features:
 
 
-<img src="https://i.imgur.com/QvUMRg.gif" title="Video Walkthrough" alt="Video Walkthrough" />
+#<img src='https://imgur.com/a/1QvUMRg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur
